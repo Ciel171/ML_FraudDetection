@@ -35,7 +35,7 @@ Replication of Tables:
    Use the module analyse_forward.
 
 6) Table 11. The effect of fraud index on firm performance:
-
+   Use the Stata do file Table 11_Firm_Valuation.dta.
 
 7) Appendix B. Additional evidence on the effectiveness of LogitBoost:
    Use the module compare_ada.
