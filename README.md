@@ -16,13 +16,6 @@ This is the main dataset after excluding all missing values for both raw account
 This is the dataset including all missing values for both raw accounting numbers and financial ratios, used only for Panel A of Appendix E.
 
 
-
-Example of how to create an instance:
-a = ML_Fraud(sample_start = 1991,test_sample = range (2001,2011),OOS_per = 1,OOS_gap = 0,sampling = "expanding",adjust_serial = True,
-            cv_flag = True,cv_k = 10,write = True,IS_per = 10)
-a.raw_analyse()
-
-
 Replication of Tables:
 
 1) Table 5. Performance of fraud detection models:
