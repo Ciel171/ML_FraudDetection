@@ -1,6 +1,12 @@
 # ML_FruadDetection
 This repository includes the codes to replicate the results of the paper entitled "A Machine Learning Approach to Detect Accounting Frauds".
 
+
+Fraud_index_2001-2018:
+
+Our findings of the paper reveal a significant negative association between the fraud index, derived from LogitBoost probabilities, and firm valuation. It is provided in this repository for future research.
+
+
 Datasets:
 
 1) FraudDB2020.csv:
