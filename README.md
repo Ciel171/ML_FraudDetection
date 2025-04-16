@@ -47,7 +47,7 @@ Replication of Tables:
 
 10) Appendix E: Additional performance of RUSBoost and Logit Models:
     For Panel B, simply use the module AppendixE_excluding_missing_values.
-    For Panel A, change the dataset used from "FraudDB2020.csv" to "FraudDB2020_including_missing_values.csv" and set OOS_gap = 1 to set up a two-year gap.
+    For Panel A, change the dataset used from "FraudDB2020.csv" to "FraudDB2020_including_missing_values.csv" and set OOS_gap = 1 for a two-year gap.
 
 11) Appendix F. Replicating the main results using 23 raw accounting numbers:
     Use the modules ratio_analyse, ratio_23_AppendixF, RUS_11, RUS_23_AppendixF.
