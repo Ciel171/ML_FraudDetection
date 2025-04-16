@@ -13,7 +13,7 @@ Datasets:
 This is the main dataset after excluding all missing values for both raw accounting numbers and financial ratios, used for all tests except for Panel A of Appendix E.
 
 2) FraudDB2020_including_missing_values.csv:
-This is the dataset including missing missing values for both raw accounting numbers and financial ratios, used only for Panel A of Appendix E.
+This is the dataset including all missing values for both raw accounting numbers and financial ratios, used only for Panel A of Appendix E.
 
 
 
