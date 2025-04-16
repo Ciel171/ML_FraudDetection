@@ -40,7 +40,7 @@ Replication of Tables:
    Use the module compare_ada.
 
 8) Appendix C. The number of firm-year observations before and after serial frauds treatment:
-   Use the module ratio_analyse. You can check the number of drops in print.
+   Use the module ratio_analyse. You can check the number of drops per year in print.
 
 9) Appendix D. Performance of ML models to detect fraud over the period 2003-2008:
    Use the modules ratio_2003, RUS28_2003, FK23_2003.
