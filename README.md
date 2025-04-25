@@ -1,20 +1,14 @@
 # ML_FruadDetection
-This repository contains the codes to replicate the results of the paper entitled "A Machine Learning Approach to Detect Accounting Fraud".
-
+This repository contains the codes to replicate the results of the paper entitled "A Machine Learning Approach to Detect Accounting Fraud". 
 
 Fraud_index_2001-2018:
 
-Our findings of the paper reveal a significant negative association between the fraud index, derived from LogitBoost probabilities, and firm valuation. It is provided in this repository for future research.
+Our findings of the paper reveal a significant negative association between the fraud index, derived from LogitBoost probabilities, and firm valuation. It is provided in this repository for academic purposes only. Users may not use data for any non-academic or commercial endeavor.
 
 
 Datasets:
 
-1) FraudDB2020.csv:
-This is the main dataset after excluding all missing values for both raw accounting numbers and financial ratios, used for all tests except for Panel A of Appendix E.
-
-2) FraudDB2020_including_missing_values.csv:
-This is the dataset including all missing values for both raw accounting numbers and financial ratios, used only for Panel A of Appendix E.
-
+We are prohibited from disclosing the original dataset due to legal requirements, but the sturcture of our datasets is provided in the folder ML_FraudDetection.
 
 Replication of Tables:
 
