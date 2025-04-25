@@ -8,7 +8,7 @@ Our findings of the paper reveal a significant negative association between the 
 
 Datasets:
 
-We are prohibited from disclosing the original dataset due to legal requirements, but the sturcture of our datasets is provided in the folder ML_FraudDetection.
+We are prohibited from disclosing the original dataset due to legal requirements, but the sturcture of our dataset is provided in the folder ML_FraudDetection.
 
 Replication of Tables:
 
