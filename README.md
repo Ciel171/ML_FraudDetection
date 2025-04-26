@@ -1,4 +1,4 @@
-# ML_FruadDetection
+# ML_FraudDetection
 This repository contains the codes to replicate the results of the paper entitled "A Machine Learning Approach to Detect Accounting Fraud". 
 
 Fraud_index_2001-2018:
